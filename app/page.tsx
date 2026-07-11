@@ -115,7 +115,7 @@ export default function ZeyLabsDashboard() {
   return (
     <div style={{ backgroundColor: '#000000', color: '#00ff00', minHeight: '100vh', fontFamily: 'monospace', padding: '30px', boxSizing: 'border-box' }}>
       <header style={{ borderBottom: '2px solid #00ff00', paddingBottom: '15px', marginBottom: '30px' }}>
-        <h1 style={{ margin: 0, fontSize: '24px', tracking: '2px' }}>ZEY LABS // COMPUTE CODE CLOUD INTEGRATION ARCHITECTURE</h1>
+        <h1 style={{ margin: 0, fontSize: '24px', letterSpacing: '2px' }}>ZEY LABS // COMPUTE CODE CLOUD INTEGRATION ARCHITECTURE</h1>
       </header>
 
       <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '20px' }}>
